@@ -1,0 +1,31 @@
+{
+  "name": "angry-coffe",
+  "version": "1.0.0",
+  "description": "boom",
+  "keywords": [
+    "nepal",
+    "coffe",
+    "fun",
+    "nepo",
+    "abhaya"
+  ],
+  "homepage": "https://github.com/abhayaos/angry-coffe#readme",
+  "bugs": {
+    "url": "https://github.com/abhayaos/angry-coffe/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhayaos/angry-coffe.git"
+  },
+  "license": "ISC",
+  "author": "Abhaya Bikram Shahi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
